@@ -1,6 +1,5 @@
 import argparse
 
-
 parser = argparse.ArgumentParser()
 parser.add_argument("-u", "--user", help="User name")
 parser.add_argument("-p", "--pwd", help="User password")
